@@ -1,0 +1,22 @@
+[
+  {
+    "Name of the hospital": "Syrus",
+    "Patient Count": 100,
+    "Hospital location": "Kollam"
+  },
+  {
+    "Name of the hospital": "Divine",
+    "Patient Count": 400,
+    "Hospital location": "Uganda"
+  },
+  {
+    "Name of the hospital": "Karunya",
+    "Patient Count": 250,
+    "Hospital location": "Kottayam"
+  },
+  {
+    "Name of the hospital": "Amala",
+    "Patient Count": 300,
+    "Hospital location": "Thrissur"
+  }
+]

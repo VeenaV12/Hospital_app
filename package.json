@@ -1,0 +1,15 @@
+{
+  "name": "hospital_data_base",
+  "version": "1.0.0",
+  "description": "Database for hospital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Veena",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
